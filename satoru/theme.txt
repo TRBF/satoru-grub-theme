@@ -37,6 +37,6 @@ terminal-border: "0"
     font = "Fira Code Regular 20"
     color = "#000000"
     align = "center"
-    text = "Hesitation is defeat: %ds"
+    text = "Domain Expansion in: %ds"
 }
 
